@@ -1,4 +1,4 @@
-#define MAX_N 100,000
+#define MAX_N 100000
 vector<int> edge[MAX_N];
 bool visited[MAX_N];
 void bfs(){
